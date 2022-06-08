@@ -42,4 +42,4 @@ object ApiObject {
 
 [깃허브](https://github.com/SeungHoHo, "SeungHoHo 깃허브")
 
-![이미지 연습](https://t1.daumcdn.net/cfile/tistory/215B644D56DCF5E82C)
+![이미지 연습](./images/coding.jpg)
